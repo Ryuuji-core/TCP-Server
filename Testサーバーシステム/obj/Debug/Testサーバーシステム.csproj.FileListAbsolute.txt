@@ -1,0 +1,6 @@
+U:\01開発\for disctop\Testサーバーシステム\Testサーバーシステム\bin\Debug\Testサーバーシステム.exe.config
+U:\01開発\for disctop\Testサーバーシステム\Testサーバーシステム\bin\Debug\Testサーバーシステム.exe
+U:\01開発\for disctop\Testサーバーシステム\Testサーバーシステム\bin\Debug\Testサーバーシステム.pdb
+U:\01開発\for disctop\Testサーバーシステム\Testサーバーシステム\obj\Debug\Testサーバーシステム.csprojResolveAssemblyReference.cache
+U:\01開発\for disctop\Testサーバーシステム\Testサーバーシステム\obj\Debug\Testサーバーシステム.exe
+U:\01開発\for disctop\Testサーバーシステム\Testサーバーシステム\obj\Debug\Testサーバーシステム.pdb
